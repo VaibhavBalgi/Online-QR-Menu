@@ -36,7 +36,7 @@ Here’s how the QR Menu looks in action 👇
 
 1. Download or clone this repository  
    ```bash
-   git clone https://github.com/VaibhavBalgi/qr-menu.git
+   git clone https://github.com/VaibhavBalgi/Online-QR-Menu.git
 2. Open the folder  
    ```bash
    cd Online-QR-Menu
