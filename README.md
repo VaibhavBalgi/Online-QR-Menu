@@ -25,9 +25,9 @@ A simple, responsive, and **contactless digital menu** 🥢. Customers can scan 
 
 Here’s how the QR Menu looks in action 👇  
 
-<img src="screenshots/Sc1.png" alt="Menu Screenshot 1" width="400">  
-<img src="screenshots/Sc2.png" alt="Menu Screenshot 2" width="400">  
-<img src="screenshots/Sc3.png" alt="Menu Screenshot 3" width="400">  
+<img src="Screenshots/Sc1.png" alt="Menu Screenshot 1" width="400">  
+<img src="Screenshots/Sc2.png" alt="Menu Screenshot 2" width="400">  
+<img src="Screenshots/Sc3.png" alt="Menu Screenshot 3" width="400">  
 
 *(Replace the sample file names with your actual screenshots in the `screenshots/` folder)*  
 
