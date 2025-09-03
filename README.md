@@ -28,8 +28,7 @@ Here’s how the QR Menu looks in action 👇
 <img src="Screenshots/Sc1.png" alt="Menu Screenshot 1" width="400">  
 <img src="Screenshots/Sc2.png" alt="Menu Screenshot 2" width="400">  
 <img src="Screenshots/Sc3.png" alt="Menu Screenshot 3" width="400">  
-
-*(Replace the sample file names with your actual screenshots in the `screenshots/` folder)*  
+ 
 
 ---
 
@@ -37,10 +36,10 @@ Here’s how the QR Menu looks in action 👇
 
 1. Download or clone this repository  
    ```bash
-   git clone https://github.com/your-username/qr-menu.git
+   git clone https://github.com/VaibhavBalgi/qr-menu.git
 2. Open the folder  
    ```bash
-   cd qr-menu
+   cd Online-QR-Menu
 3. Double-click index.html to open it in your browser
 
 ## 🔗 Usage
